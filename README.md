@@ -15,27 +15,17 @@ My code does NOT give you a 100% completion grade. Please modify the code accord
 .
 
 The following are the coverage percentages:
-
+```
 01 - 100%
-
 02 - 73.0%
-
 03 - 100%
-
 04 - 100%
-
 05 - 94.4%
-
 06 - 98.2%
-
 07 - 98.1%
-
 08 - 93.4%
-
 09 - 87.5%
-
 10 - 100%
-
 SpringLabFinal - 100%
-
 SummerLabFinal - 100%
+```
