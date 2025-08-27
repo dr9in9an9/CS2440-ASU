@@ -2,7 +2,11 @@ package deck;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Random;
-
+/**Deck class.
+ * 
+ * @author Jesus Sisniega-Serrano
+ * @version 5/29/25
+ */
 public class Deck{
     public static final int NUM_CARDS = 52;
     private Random generator;
@@ -72,3 +76,4 @@ public class Deck{
         return str;
     }
 }
+
